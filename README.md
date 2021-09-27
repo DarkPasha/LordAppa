@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LordAppa
+- 👋 Hi, I’m @HIZNyu
 - 👀 I’m interested in some parts of development. Mainly Python.
 - 🌱 I’m currently learning Javascript.
-- 📫 How to reach me: Discord: K'appa#5896
+- 📫 How to reach me: Discord: HIZNyu#5896
 
 <!---
 LordAppa/LordAppa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
